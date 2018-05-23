@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorSplash">#e4322d</color>
+    <color name="colorTolbar">#e4322d</color>
+    <color name="colorButonBack">#e4322d</color>
+    <color name="colorLayout">#eff0ec</color>
+    <color name="colorBoxText">#d7d7d7</color>
+    <color name="colorPlomo">#b2b2b2</color>
+    <color name="colorGrey">#d5d7d3</color>
+    <color name="colorTarjetNumerGrey">#808080</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorTextMenu">#898988</color>
+</resources>
